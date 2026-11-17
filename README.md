@@ -15,7 +15,7 @@ detection using a webcam. The application identifies
 matching colour regions and highlights them with
 labelled bounding boxes.
 
-![Real-time multi-colour detection](images/color_detection_demo.png)
+![Real-time multi-colour detection](color_detection.png)
 
 ## Features
 
