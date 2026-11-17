@@ -8,6 +8,15 @@ The application captures live video from a webcam, processes each frame in the H
 
 The project currently supports five colours: **red, yellow, blue, green, and orange**.
 
+## Demonstration
+
+The screenshot below demonstrates real-time colour
+detection using a webcam. The application identifies
+matching colour regions and highlights them with
+labelled bounding boxes.
+
+![Real-time multi-colour detection](images/color_detection_demo.png)
+
 ## Features
 
 - Real-time video capture using a webcam.
